@@ -1,2 +1,2 @@
-# saaspal-web-dummy
-Web dummy for SaaS
+# saaspal-web
+SaaS Template Web by Me
